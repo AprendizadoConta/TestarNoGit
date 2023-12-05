@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj": {}
+    "C:\\Users\\Aluno\\Source\\Repos\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj": {
+    "C:\\Users\\Aluno\\Source\\Repos\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Source\\Repos\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj",
         "projectName": "TestarNoGit",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Source\\Repos\\TestarNoGit\\TestarNoGit\\TestarNoGit.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\TestarNoGit\\TestarNoGit\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Source\\Repos\\TestarNoGit\\TestarNoGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
